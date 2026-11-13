@@ -1,2 +1,20 @@
+# Folder hasil kompilasi Java & Maven
+target/
 out/
+*.class
+*.jar
+
+# Konfigurasi IDE lokal
 .idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# File PDF sumber putusan (wajib disimpan di Google Drive, bukan di GitHub)
+*.pdf
+
+# File sementara sistem operasi
+.DS_Store
+Thumbs.db
