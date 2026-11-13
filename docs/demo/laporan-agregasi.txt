@@ -1,0 +1,16 @@
+=== LAPORAN AGREGASI PUTUSAN NARKOTIKA ===
+Jumlah Perkara   : 50 perkara
+Rata-rata Vonis  : 74,14 bulan
+Total Denda      : Rp46901000000
+Distribusi Jenis Narkotika:
+  - Sabu (Metamfetamina): 30 perkara
+  - Sabu (Metamfetamina) dan Ekstasi (MDMA): 1 perkara
+  - Sabu (Metamfetamina) dan Ganja: 1 perkara
+  - Shabu (Metamfetamina), Ekstasi (2C-B): 1 perkara
+  - Sabu-sabu (Kristal Metamfetamina): 3 perkara
+  - Sabu (Kristal Methamfetamina): 1 perkara
+  - Sabu (Metamfetamina), Ekstasi (MDMA), Happy Water (MDMA dan Metamfetamina): 1 perkara
+  - Sabu-sabu: 1 perkara
+  - Sabu: 10 perkara
+  - Sabu dan Ganja: 1 perkara
+

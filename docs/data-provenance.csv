@@ -1,1 +1,302 @@
 case_id,field_name,value,source_file,source_page,extractor,reviewer,status
+P001,nomorPerkara,7/Pid.Sus/2019/PN Sda,putusan_7_pid.sus_2019_pn_sda_20261113170353,1,Alifandro,Alifandro,verified
+P001,beratBarangBuktiGram,0.076,putusan_7_pid.sus_2019_pn_sda_20261113170353,4,Alifandro,Alifandro,verified
+P001,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_7_pid.sus_2019_pn_sda_20261113170353,14,Alifandro,Alifandro,verified
+P001,tuntutanBulan,84,putusan_7_pid.sus_2019_pn_sda_20261113170353,2,Alifandro,Alifandro,verified
+P001,vonisBulan,60,putusan_7_pid.sus_2019_pn_sda_20261113170353,14,Alifandro,Alifandro,verified
+P001,dendaRupiah,1000000000,putusan_7_pid.sus_2019_pn_sda_20261113170353,14,Alifandro,Alifandro,verified
+P002,nomorPerkara,8/Pid.Sus/2018/PN Sda,putusan_8_pid.sus_2018_pn_sda_20261113170447,1,Alifandro,Alifandro,verified
+P002,beratBarangBuktiGram,0.902,putusan_8_pid.sus_2018_pn_sda_20261113170447,5,Alifandro,Alifandro,verified
+P002,pasalTerbukti,Pasal 112 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_8_pid.sus_2018_pn_sda_20261113170447,26,Alifandro,Alifandro,verified
+P002,tuntutanBulan,60,putusan_8_pid.sus_2018_pn_sda_20261113170447,2,Alifandro,Alifandro,verified
+P002,vonisBulan,0,putusan_8_pid.sus_2018_pn_sda_20261113170447,26,Alifandro,Alifandro,verified
+P002,dendaRupiah,800000000,putusan_8_pid.sus_2018_pn_sda_20261113170447,26,Alifandro,Alifandro,verified
+P003,nomorPerkara,10/Pid.B/2017/PN SDA,putusan_10_pid.sus_2018_pn_sda_20261113171414,1,Alifandro,Alifandro,verified
+P003,beratBarangBuktiGram,0.083,putusan_10_pid.sus_2018_pn_sda_20261113171414,5,Alifandro,Alifandro,verified
+P003,pasalTerbukti,Pasal 127 ayat (1) huruf a UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_10_pid.sus_2018_pn_sda_20261113171414,27,Alifandro,Alifandro,verified
+P003,tuntutanBulan,24,putusan_10_pid.sus_2018_pn_sda_20261113171414,2,Alifandro,Alifandro,verified
+P003,vonisBulan,19,putusan_10_pid.sus_2018_pn_sda_20261113171414,27,Alifandro,Alifandro,verified
+P003,dendaRupiah,0,putusan_10_pid.sus_2018_pn_sda_20261113171414,27,Alifandro,Alifandro,verified
+P004,nomorPerkara,43/Pid.Sus/2023/PN Ksp,putusan_43_pid.sus_2023_pn_ksp_20261113171853,1,Alifandro,Alifandro,verified
+P004,beratBarangBuktiGram,4.56,putusan_43_pid.sus_2023_pn_ksp_20261113171853,4,Alifandro,Alifandro,verified
+P004,pasalTerbukti,Pasal 112 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_43_pid.sus_2023_pn_ksp_20261113171853,15,Alifandro,Alifandro,verified
+P004,tuntutanBulan,84,putusan_43_pid.sus_2023_pn_ksp_20261113171853,2,Alifandro,Alifandro,verified
+P004,vonisBulan,48,putusan_43_pid.sus_2023_pn_ksp_20261113171853,16,Alifandro,Alifandro,verified
+P004,dendaRupiah,1000000000,putusan_43_pid.sus_2023_pn_ksp_20261113171853,16,Alifandro,Alifandro,verified
+P005,nomorPerkara,96/Pid.Sus/2024/PN.Sda,putusan_96_pid.sus_2024_pn_sda_20261112102444,1,Alifandro,Alifandro,verified
+P005,beratBarangBuktiGram,105.03,putusan_96_pid.sus_2024_pn_sda_20261112102444,8,Alifandro,Alifandro,verified
+P005,pasalTerbukti,Pasal 114 ayat (2) Jo. Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_96_pid.sus_2024_pn_sda_20261112102444,34,Alifandro,Alifandro,verified
+P005,tuntutanBulan,144,putusan_96_pid.sus_2024_pn_sda_20261112102444,2,Alifandro,Alifandro,verified
+P005,vonisBulan,132,putusan_96_pid.sus_2024_pn_sda_20261112102444,34,Alifandro,Alifandro,verified
+P005,dendaRupiah,2000000000,putusan_96_pid.sus_2024_pn_sda_20261112102444,34,Alifandro,Alifandro,verified
+P006,nomorPerkara,117/Pid.Sus/2018/PN Sda,putusan_117_pid.sus_2018_pn_sda_20261113171626,1,Alifandro,Alifandro,verified
+P006,beratBarangBuktiGram,1.184,putusan_117_pid.sus_2018_pn_sda_20261113171626,5,Alifandro,Alifandro,verified
+P006,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_117_pid.sus_2018_pn_sda_20261113171626,18,Alifandro,Alifandro,verified
+P006,tuntutanBulan,96,putusan_117_pid.sus_2018_pn_sda_20261113171626,2,Alifandro,Alifandro,verified
+P006,vonisBulan,84,putusan_117_pid.sus_2018_pn_sda_20261113171626,18,Alifandro,Alifandro,verified
+P006,dendaRupiah,1000000000,putusan_117_pid.sus_2018_pn_sda_20261113171626,18,Alifandro,Alifandro,verified
+P007,nomorPerkara,122/Pid.Sus/2019/PN SDA,putusan_122_pid.sus_2019_pn_sda_20261113171438,1,Alifandro,Alifandro,verified
+P007,beratBarangBuktiGram,0.416,putusan_122_pid.sus_2019_pn_sda_20261113171438,11,Alifandro,Alifandro,verified
+P007,pasalTerbukti,Pasal 112 ayat (1) dan Pasal 111 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_122_pid.sus_2019_pn_sda_20261113171438,13,Alifandro,Alifandro,verified
+P007,tuntutanBulan,96,putusan_122_pid.sus_2019_pn_sda_20261113171438,2,Alifandro,Alifandro,verified
+P007,vonisBulan,60,putusan_122_pid.sus_2019_pn_sda_20261113171438,13,Alifandro,Alifandro,verified
+P007,dendaRupiah,800000000,putusan_122_pid.sus_2019_pn_sda_20261113171438,13,Alifandro,Alifandro,verified
+P008,nomorPerkara,162/Pid.Sus/2019/PN SDA,putusan_162_pid.sus_2019_pn_sda_20261113171043,1,Alifandro,Alifandro,verified
+P008,beratBarangBuktiGram,0.45,putusan_162_pid.sus_2019_pn_sda_20261113171043,14,Alifandro,Alifandro,verified
+P008,pasalTerbukti,Pasal 112 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_162_pid.sus_2019_pn_sda_20261113171043,16,Alifandro,Alifandro,verified
+P008,tuntutanBulan,108,putusan_162_pid.sus_2019_pn_sda_20261113171043,2,Alifandro,Alifandro,verified
+P008,vonisBulan,72,putusan_162_pid.sus_2019_pn_sda_20261113171043,16,Alifandro,Alifandro,verified
+P008,dendaRupiah,800000000,putusan_162_pid.sus_2019_pn_sda_20261113171043,16,Alifandro,Alifandro,verified
+P009,nomorPerkara,164/Pid.Sus/2025/PN.Sda,putusan_164_pid.sus_2025_pn_sda_20261113170912,1,Alifandro,Alifandro,verified
+P009,beratBarangBuktiGram,0.626,putusan_164_pid.sus_2025_pn_sda_20261113170912,6,Alifandro,Alifandro,verified
+P009,pasalTerbukti,Pasal 114 ayat (1) Jo. Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_164_pid.sus_2025_pn_sda_20261113170912,23,Alifandro,Alifandro,verified
+P009,tuntutanBulan,84,putusan_164_pid.sus_2025_pn_sda_20261113170912,2,Alifandro,Alifandro,verified
+P009,vonisBulan,78,putusan_164_pid.sus_2025_pn_sda_20261113170912,23,Alifandro,Alifandro,verified
+P009,dendaRupiah,1000000000,putusan_164_pid.sus_2025_pn_sda_20261113170912,23,Alifandro,Alifandro,verified
+P010,nomorPerkara,237/Pid.Sus/2019/PN SDA,putusan_237_pid.sus_2019_pn_sda_20261113171738,1,Alifandro,Alifandro,verified
+P010,beratBarangBuktiGram,0.059,putusan_237_pid.sus_2019_pn_sda_20261113171738,3,Alifandro,Alifandro,verified
+P010,pasalTerbukti,Pasal 112 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_237_pid.sus_2019_pn_sda_20261113171738,9,Alifandro,Alifandro,verified
+P010,tuntutanBulan,84,putusan_237_pid.sus_2019_pn_sda_20261113171738,2,Alifandro,Alifandro,verified
+P010,vonisBulan,60,putusan_237_pid.sus_2019_pn_sda_20261113171738,10,Alifandro,Alifandro,verified
+P010,dendaRupiah,800000000,putusan_237_pid.sus_2019_pn_sda_20261113171738,10,Alifandro,Alifandro,verified
+P011,nomorPerkara,237/Pid.Sus/2025/PN Sda,putusan_237_pid.sus_2025_pn_sda_20261113170857,1,Alifandro,Alifandro,verified
+P011,beratBarangBuktiGram,181.758,putusan_237_pid.sus_2025_pn_sda_20261113170857,"46, 47",Alifandro,Alifandro,verified
+P011,pasalTerbukti,Pasal 114 ayat (2) Jo. Pasal 132 ayat (1) Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika,putusan_237_pid.sus_2025_pn_sda_20261113170857,46,Alifandro,Alifandro,verified
+P011,tuntutanBulan,180,putusan_237_pid.sus_2025_pn_sda_20261113170857,2,Alifandro,Alifandro,verified
+P011,vonisBulan,120,putusan_237_pid.sus_2025_pn_sda_20261113170857,46,Alifandro,Alifandro,verified
+P011,dendaRupiah,2000000000,putusan_237_pid.sus_2025_pn_sda_20261113170857,46,Alifandro,Alifandro,verified
+P012,nomorPerkara,244/Pid.Sus/2019/PN SDA,putusan_244_pid.sus_2019_pn_sda_20261113171249,1,Alifandro,Alifandro,verified
+P012,beratBarangBuktiGram,1.57,putusan_244_pid.sus_2019_pn_sda_20261113171249,15,Alifandro,Alifandro,verified
+P012,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_244_pid.sus_2019_pn_sda_20261113171249,14,Alifandro,Alifandro,verified
+P012,tuntutanBulan,84,putusan_244_pid.sus_2019_pn_sda_20261113171249,2,Alifandro,Alifandro,verified
+P012,vonisBulan,54,putusan_244_pid.sus_2019_pn_sda_20261113171249,15,Alifandro,Alifandro,verified
+P012,dendaRupiah,800000000,putusan_244_pid.sus_2019_pn_sda_20261113171249,15,Alifandro,Alifandro,verified
+P013,nomorPerkara,255/Pid.Sus/2019/PN Sda,putusan_255_pid.sus_2019_pn_sda_20261113170927,1,Alifandro,Alifandro,verified
+P013,beratBarangBuktiGram,2.54,putusan_255_pid.sus_2019_pn_sda_20261113170927,12,Alifandro,Alifandro,verified
+P013,pasalTerbukti,Pasal 114 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009 tentang Narkotika,putusan_255_pid.sus_2019_pn_sda_20261113170927,12,Alifandro,Alifandro,verified
+P013,tuntutanBulan,96,putusan_255_pid.sus_2019_pn_sda_20261113170927,1,Alifandro,Alifandro,verified
+P013,vonisBulan,84,putusan_255_pid.sus_2019_pn_sda_20261113170927,12,Alifandro,Alifandro,verified
+P013,dendaRupiah,1000000000,putusan_255_pid.sus_2019_pn_sda_20261113170927,12,Alifandro,Alifandro,verified
+P014,nomorPerkara,301/Pid.Sus/2021/PN SDA,putusan_301_pid.sus_2021_pn_sda_20261112094343,1,Alifandro,Alifandro,verified
+P014,beratBarangBuktiGram,0.358,putusan_301_pid.sus_2021_pn_sda_20261112094343,16,Alifandro,Alifandro,verified
+P014,pasalTerbukti,Pasal 114 ayat (1) Jo. Pasal 132 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009 tentang Narkotika,putusan_301_pid.sus_2021_pn_sda_20261112094343,16,Alifandro,Alifandro,verified
+P014,tuntutanBulan,84,putusan_301_pid.sus_2021_pn_sda_20261112094343,2,Alifandro,Alifandro,verified
+P014,vonisBulan,60,putusan_301_pid.sus_2021_pn_sda_20261112094343,16,Alifandro,Alifandro,verified
+P014,dendaRupiah,1000000000,putusan_301_pid.sus_2021_pn_sda_20261112094343,16,Alifandro,Alifandro,verified
+P015,nomorPerkara,312/Pid.Sus/2024/PN Sda,putusan_312_pid.sus_2024_pn_sda_20261113170647,1,Alifandro,Alifandro,verified
+P015,beratBarangBuktiGram,2.97,putusan_312_pid.sus_2024_pn_sda_20261113170647,28,Alifandro,Alifandro,verified
+P015,pasalTerbukti,Pasal 114 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009 tentang Narkotika,putusan_312_pid.sus_2024_pn_sda_20261113170647,28,Alifandro,Alifandro,verified
+P015,tuntutanBulan,96,putusan_312_pid.sus_2024_pn_sda_20261113170647,2,Alifandro,Alifandro,verified
+P015,vonisBulan,72,putusan_312_pid.sus_2024_pn_sda_20261113170647,28,Alifandro,Alifandro,verified
+P015,dendaRupiah,1000000000,putusan_312_pid.sus_2024_pn_sda_20261113170647,28,Alifandro,Alifandro,verified
+P016,nomorPerkara,1064/Pid.Sus/2018/PN SDA,putusan_1064_pid.sus_2018_pn_sda_20261113170322,1,Alifandro,Alifandro,verified
+P016,beratBarangBuktiGram,0.190,putusan_1064_pid.sus_2018_pn_sda_20261113170322,8,Alifandro,Alifandro,verified
+P016,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1064_pid.sus_2018_pn_sda_20261113170322,8,Alifandro,Alifandro,verified
+P016,tuntutanBulan,84,putusan_1064_pid.sus_2018_pn_sda_20261113170322,2,Alifandro,Alifandro,verified
+P016,vonisBulan,72,putusan_1064_pid.sus_2018_pn_sda_20261113170322,8,Alifandro,Alifandro,verified
+P016,dendaRupiah,800000000,putusan_1064_pid.sus_2018_pn_sda_20261113170322,8,Alifandro,Alifandro,verified
+P017,nomorPerkara,1079/Pid.Sus/2018/PN SDA,putusan_1079_pid.sus_2018_pn_sda_20261113170829,1,Alifandro,Alifandro,verified
+P017,beratBarangBuktiGram,1.50,putusan_1079_pid.sus_2018_pn_sda_20261113170829,26,Alifandro,Alifandro,verified
+P017,pasalTerbukti,Pasal 132 ayat (1) Jo Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika dan Pasal 197 UU No. 36 Tahun 2009 tentang Kesehatan,putusan_1079_pid.sus_2018_pn_sda_20261113170829,26,Alifandro,Alifandro,verified
+P017,tuntutanBulan,120,putusan_1079_pid.sus_2018_pn_sda_20261113170829,2,Alifandro,Alifandro,verified
+P017,vonisBulan,90,putusan_1079_pid.sus_2018_pn_sda_20261113170829,26,Alifandro,Alifandro,verified
+P017,dendaRupiah,1500000000,putusan_1079_pid.sus_2018_pn_sda_20261113170829,26,Alifandro,Alifandro,verified
+P018,nomorPerkara,1083/Pid.Sus/2018/PN SDA,putusan_1083_pid.sus_2018_pn_sda_20261113171501,1,Alifandro,Alifandro,verified
+P018,beratBarangBuktiGram,3.995,putusan_1083_pid.sus_2018_pn_sda_20261113171501,12,Alifandro,Alifandro,verified
+P018,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1083_pid.sus_2018_pn_sda_20261113171501,12,Alifandro,Alifandro,verified
+P018,tuntutanBulan,108,putusan_1083_pid.sus_2018_pn_sda_20261113171501,2,Alifandro,Alifandro,verified
+P018,vonisBulan,84,putusan_1083_pid.sus_2018_pn_sda_20261113171501,12,Alifandro,Alifandro,verified
+P018,dendaRupiah,1000000000,putusan_1083_pid.sus_2018_pn_sda_20261113171501,12,Alifandro,Alifandro,verified
+P019,nomorPerkara,925/Pid.Sus/2018/PN SDA,putusan_925_pid.sus_2018_pn_sda_20261113171004.pdf,1,Alifandro,Alifandro,verified
+P019,beratBarangBuktiGram,4.19,putusan_925_pid.sus_2018_pn_sda_20261113171004.pdf,"17, 18",Alifandro,Alifandro,verified
+P019,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_925_pid.sus_2018_pn_sda_20261113171004.pdf,17,Alifandro,Alifandro,verified
+P019,tuntutanBulan,120,putusan_925_pid.sus_2018_pn_sda_20261113171004.pdf,2,Alifandro,Alifandro,verified
+P019,vonisBulan,84,putusan_925_pid.sus_2018_pn_sda_20261113171004.pdf,17,Alifandro,Alifandro,verified
+P019,dendaRupiah,1000000000,putusan_925_pid.sus_2018_pn_sda_20261113171004.pdf,17,Alifandro,Alifandro,verified
+P020,nomorPerkara,995/Pid.Sus/2018/PN SDA,putusan_995_pid.sus_2018_pn_sda_20261113171108.pdf,1,Alifandro,Alifandro,verified
+P020,beratBarangBuktiGram,4.78,putusan_995_pid.sus_2018_pn_sda_20261113171108.pdf,21,Alifandro,Alifandro,verified
+P020,pasalTerbukti,Pasal 112 ayat (1) Jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_995_pid.sus_2018_pn_sda_20261113171108.pdf,19,Alifandro,Alifandro,verified
+P020,tuntutanBulan,84,putusan_995_pid.sus_2018_pn_sda_20261113171108.pdf,2,Alifandro,Alifandro,verified
+P020,vonisBulan,60,putusan_995_pid.sus_2018_pn_sda_20261113171108.pdf,21,Alifandro,Alifandro,verified
+P020,dendaRupiah,800000000,putusan_995_pid.sus_2018_pn_sda_20261113171108.pdf,21,Alifandro,Alifandro,verified
+P021,nomorPerkara,1011/Pid.Sus/2020/PN SDA,putusan_1011_pid.sus_2020_pn_sda_20261112043659.pdf,1,Alifandro,Alifandro,verified
+P021,beratBarangBuktiGram,0.14,putusan_1011_pid.sus_2020_pn_sda_20261112043659.pdf,17,Alifandro,Alifandro,verified
+P021,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_1011_pid.sus_2020_pn_sda_20261112043659.pdf,16,Alifandro,Alifandro,verified
+P021,tuntutanBulan,96,putusan_1011_pid.sus_2020_pn_sda_20261112043659.pdf,2,Alifandro,Alifandro,verified
+P021,vonisBulan,64,putusan_1011_pid.sus_2020_pn_sda_20261112043659.pdf,17,Alifandro,Alifandro,verified
+P021,dendaRupiah,1000000000,putusan_1011_pid.sus_2020_pn_sda_20261112043659.pdf,17,Alifandro,Alifandro,verified
+P022,nomorPerkara,1012/Pid.Sus/2018/PN.Sda.,putusan_1012_pid.sus_2018_pn_sda_20261113171526.pdf,1,Alifandro,Alifandro,verified
+P022,beratBarangBuktiGram,1.68,putusan_1012_pid.sus_2018_pn_sda_20261113171526.pdf,19,Alifandro,Alifandro,verified
+P022,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_1012_pid.sus_2018_pn_sda_20261113171526.pdf,18,Alifandro,Alifandro,verified
+P022,tuntutanBulan,108,putusan_1012_pid.sus_2018_pn_sda_20261113171526.pdf,2,Alifandro,Alifandro,verified
+P022,vonisBulan,84,putusan_1012_pid.sus_2018_pn_sda_20261113171526.pdf,18,Alifandro,Alifandro,verified
+P022,dendaRupiah,1000000000,putusan_1012_pid.sus_2018_pn_sda_20261113171526.pdf,18,Alifandro,Alifandro,verified
+P023,nomorPerkara,873/Pid.Sus/2018/PN SDA,putusan_873_pid.sus_2018_pn_sda_20261113170304.pdf,1,Alifandro,Alifandro,verified
+P023,beratBarangBuktiGram,1.70,putusan_873_pid.sus_2018_pn_sda_20261113170304.pdf,"15, 16",Alifandro,Alifandro,verified
+P023,pasalTerbukti,Pasal 112 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_873_pid.sus_2018_pn_sda_20261113170304.pdf,15,Alifandro,Alifandro,verified
+P023,tuntutanBulan,60,putusan_873_pid.sus_2018_pn_sda_20261113170304.pdf,2,Alifandro,Alifandro,verified
+P023,vonisBulan,48,putusan_873_pid.sus_2018_pn_sda_20261113170304.pdf,15,Alifandro,Alifandro,verified
+P023,dendaRupiah,800000000,putusan_873_pid.sus_2018_pn_sda_20261113170304.pdf,15,Alifandro,Alifandro,verified
+P024,nomorPerkara,754/Pid.Sus/2021/PN Sda.,putusan_754_pid.sus_2021_pn_sda_20261112075339.pdf,1,Alifandro,Alifandro,verified
+P024,beratBarangBuktiGram,0.27,putusan_754_pid.sus_2021_pn_sda_20261112075339.pdf,24,Alifandro,Alifandro,verified
+P024,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_754_pid.sus_2021_pn_sda_20261112075339.pdf,23,Alifandro,Alifandro,verified
+P024,tuntutanBulan,84,putusan_754_pid.sus_2021_pn_sda_20261112075339.pdf,2,Alifandro,Alifandro,verified
+P024,vonisBulan,60,putusan_754_pid.sus_2021_pn_sda_20261112075339.pdf,23,Alifandro,Alifandro,verified
+P024,dendaRupiah,1000000000,putusan_754_pid.sus_2021_pn_sda_20261112075339.pdf,23,Alifandro,Alifandro,verified
+P025,nomorPerkara,771/Pid.Sus/2025/PN Sda,putusan_771_pid.sus_2025_pn_sda_20261112164213.pdf,1,Alifandro,Alifandro,verified
+P025,beratBarangBuktiGram,7.00,putusan_771_pid.sus_2025_pn_sda_20261112164213.pdf,30,Alifandro,Alifandro,verified
+P025,pasalTerbukti,Pasal 112 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika jo. Lampiran II UU RI No. 1 Tahun 2026 tentang Penyesuaian Pidana,putusan_771_pid.sus_2025_pn_sda_20261112164213.pdf,30,Alifandro,Alifandro,verified
+P025,tuntutanBulan,96,putusan_771_pid.sus_2025_pn_sda_20261112164213.pdf,2,Alifandro,Alifandro,verified
+P025,vonisBulan,48,putusan_771_pid.sus_2025_pn_sda_20261112164213.pdf,30,Alifandro,Alifandro,verified
+P025,dendaRupiah,800000000,putusan_771_pid.sus_2025_pn_sda_20261112164213.pdf,30,Alifandro,Alifandro,verified
+P026,nomorPerkara,779/Pid.Sus/2023/PN Sda,putusan_779_pid.sus_2023_pn_sda_20261110050548.pdf,1,Alifandro,Alifandro,verified
+P026,beratBarangBuktiGram,1.79,putusan_779_pid.sus_2023_pn_sda_20261110050548.pdf,16,Alifandro,Alifandro,verified
+P026,pasalTerbukti,Pasal 112 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_779_pid.sus_2023_pn_sda_20261110050548.pdf,16,Alifandro,Alifandro,verified
+P026,tuntutanBulan,84,putusan_779_pid.sus_2023_pn_sda_20261110050548.pdf,2,Alifandro,Alifandro,verified
+P026,vonisBulan,66,putusan_779_pid.sus_2023_pn_sda_20261110050548.pdf,16,Alifandro,Alifandro,verified
+P026,dendaRupiah,800000000,putusan_779_pid.sus_2023_pn_sda_20261110050548.pdf,16,Alifandro,Alifandro,verified
+P027,nomorPerkara,832/Pid.Sus/2023/PN.Sda,putusan_832_pid.sus_2023_pn_sda_20261110004603.pdf,1,Alifandro,Alifandro,verified
+P027,beratBarangBuktiGram,0.41,putusan_832_pid.sus_2023_pn_sda_20261110004603.pdf,21,Alifandro,Alifandro,verified
+P027,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_832_pid.sus_2023_pn_sda_20261110004603.pdf,21,Alifandro,Alifandro,verified
+P027,tuntutanBulan,84,putusan_832_pid.sus_2023_pn_sda_20261110004603.pdf,2,Alifandro,Alifandro,verified
+P027,vonisBulan,60,putusan_832_pid.sus_2023_pn_sda_20261110004603.pdf,21,Alifandro,Alifandro,verified
+P027,dendaRupiah,1000000000,putusan_832_pid.sus_2023_pn_sda_20261110004603.pdf,21,Alifandro,Alifandro,verified
+P028,nomorPerkara,850/Pid.Sus/2018/PN SDA,putusan_850_pid.sus_2018_pn_sda_20261113170409.pdf,1,Alifandro,Alifandro,verified
+P028,beratBarangBuktiGram,0.30,putusan_850_pid.sus_2018_pn_sda_20261113170409.pdf,"3, 20",Alifandro,Alifandro,verified
+P028,pasalTerbukti,Pasal 112 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_850_pid.sus_2018_pn_sda_20261113170409.pdf,20,Alifandro,Alifandro,verified
+P028,tuntutanBulan,84,putusan_850_pid.sus_2018_pn_sda_20261113170409.pdf,3,Alifandro,Alifandro,verified
+P028,vonisBulan,54,putusan_850_pid.sus_2018_pn_sda_20261113170409.pdf,21,Alifandro,Alifandro,verified
+P028,dendaRupiah,800000000,putusan_850_pid.sus_2018_pn_sda_20261113170409.pdf,21,Alifandro,Alifandro,verified
+
+P029,nomorPerkara,668/Pid.Sus/2025/PN Sda,putusan_668_pid.sus_2025_pn_sda_20261112164658.pdf,1,Alifandro,Alifandro,verified
+P029,beratBarangBuktiGram,23448.4,putusan_668_pid.sus_2025_pn_sda_20261112164658.pdf,"76, 77, 78, 79, 80, 81",Alifandro,Alifandro,verified
+P029,pasalTerbukti,Pasal 114 ayat (2) Jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 jo Lampiran II UU RI No. 1 Tahun 2026,putusan_668_pid.sus_2025_pn_sda_20261112164658.pdf,75,Alifandro,Alifandro,verified
+P029,tuntutanBulan,0,putusan_668_pid.sus_2025_pn_sda_20261112164658.pdf,2,Alifandro,Alifandro,verified
+P029,vonisBulan,240,putusan_668_pid.sus_2025_pn_sda_20261112164658.pdf,75,Alifandro,Alifandro,verified
+P029,dendaRupiah,2000000000,putusan_668_pid.sus_2025_pn_sda_20261112164658.pdf,"75, 76",Alifandro,Alifandro,verified
+P030,nomorPerkara,705/Pid.Sus/2018/PN SDA,putusan_705_pid.sus_2018_pn_sda_20261113170433.pdf,1,Alifandro,Alifandro,verified
+P030,beratBarangBuktiGram,0.168,putusan_705_pid.sus_2018_pn_sda_20261113170433.pdf,"3, 13",Alifandro,Alifandro,verified
+P030,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009,putusan_705_pid.sus_2018_pn_sda_20261113170433.pdf,13,Alifandro,Alifandro,verified
+P030,tuntutanBulan,96,putusan_705_pid.sus_2018_pn_sda_20261113170433.pdf,2,Alifandro,Alifandro,verified
+P030,vonisBulan,72,putusan_705_pid.sus_2018_pn_sda_20261113170433.pdf,13,Alifandro,Alifandro,verified
+P030,dendaRupiah,1000000000,putusan_705_pid.sus_2018_pn_sda_20261113170433.pdf,13,Alifandro,Alifandro,verified
+P031,nomorPerkara,724/Pid.Sus/2018/PN SDA,putusan_724_pid.sus_2018_pn_sda_20261113171313.pdf,1,Alifandro,Alifandro,verified
+P031,beratBarangBuktiGram,11.831,putusan_724_pid.sus_2018_pn_sda_20261113171313.pdf,"4, 19",Alifandro,Alifandro,verified
+P031,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009,putusan_724_pid.sus_2018_pn_sda_20261113171313.pdf,"16, 18",Alifandro,Alifandro,verified
+P031,tuntutanBulan,168,putusan_724_pid.sus_2018_pn_sda_20261113171313.pdf,2,Alifandro,Alifandro,verified
+P031,vonisBulan,120,putusan_724_pid.sus_2018_pn_sda_20261113171313.pdf,18,Alifandro,Alifandro,verified
+P031,dendaRupiah,1000000000,putusan_724_pid.sus_2018_pn_sda_20261113171313.pdf,18,Alifandro,Alifandro,verified
+P032,nomorPerkara,590/Pid.Sus/2024/PN Sda,putusan_590_pid.sus_2024_pn_sda_20261113170746.pdf,1,Alifandro,Alifandro,verified
+P032,beratBarangBuktiGram,0.999,putusan_590_pid.sus_2024_pn_sda_20261113170746.pdf,3,Alifandro,Alifandro,verified
+P032,pasalTerbukti,Pasal 114 ayat (1) Jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009,putusan_590_pid.sus_2024_pn_sda_20261113170746.pdf,"11, 12",Alifandro,Alifandro,verified
+P032,tuntutanBulan,96,putusan_590_pid.sus_2024_pn_sda_20261113170746.pdf,2,Alifandro,Alifandro,verified
+P032,vonisBulan,72,putusan_590_pid.sus_2024_pn_sda_20261113170746.pdf,12,Alifandro,Alifandro,verified
+P032,dendaRupiah,1000000000,putusan_590_pid.sus_2024_pn_sda_20261113170746.pdf,12,Alifandro,Alifandro,verified
+P033,nomorPerkara,613/Pid.Sus/2023/PN Sda,putusan_613_pid.sus_2023_pn_sda_20261112113414.pdf,1,Alifandro,Alifandro,verified
+P033,beratBarangBuktiGram,2.431,putusan_613_pid.sus_2023_pn_sda_20261112113414.pdf,"4, 11, 20",Alifandro,Alifandro,verified
+P033,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009,putusan_613_pid.sus_2023_pn_sda_20261112113414.pdf,"18, 20",Alifandro,Alifandro,verified
+P033,tuntutanBulan,108,putusan_613_pid.sus_2023_pn_sda_20261112113414.pdf,2,Alifandro,Alifandro,verified
+P033,vonisBulan,84,putusan_613_pid.sus_2023_pn_sda_20261112113414.pdf,20,Alifandro,Alifandro,verified
+P033,dendaRupiah,1000000000,putusan_613_pid.sus_2023_pn_sda_20261112113414.pdf,20,Alifandro,Alifandro,verified
+P034,nomorPerkara,491/Pid.Sus/2024/PN Sda,putusan_491_pid.sus_2024_pn_sda_20261113170707.pdf,1,Alifandro,Alifandro,verified
+P034,beratBarangBuktiGram,99.447,putusan_491_pid.sus_2024_pn_sda_20261113170707.pdf,"3, 6, 16, 26, 28",Alifandro,Alifandro,verified
+P034,pasalTerbukti,Pasal 114 ayat (2) Jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009,putusan_491_pid.sus_2024_pn_sda_20261113170707.pdf,"25, 27",Alifandro,Alifandro,verified
+P034,tuntutanBulan,120,putusan_491_pid.sus_2024_pn_sda_20261113170707.pdf,2,Alifandro,Alifandro,verified
+P034,vonisBulan,108,putusan_491_pid.sus_2024_pn_sda_20261113170707.pdf,27,Alifandro,Alifandro,verified
+P034,dendaRupiah,1000000000,putusan_491_pid.sus_2024_pn_sda_20261113170707.pdf,27,Alifandro,Alifandro,verified
+P035,nomorPerkara,567/Pid.Sus/2019/PN Sda,putusan_567_pid.sus_2019_pn_sda_20261113171714.pdf,1,Alifandro,Alifandro,verified
+P035,beratBarangBuktiGram,0.048,putusan_567_pid.sus_2019_pn_sda_20261113171714.pdf,"3, 5, 10",Alifandro,Alifandro,verified
+P035,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009,putusan_567_pid.sus_2019_pn_sda_20261113171714.pdf,"8, 11",Alifandro,Alifandro,verified
+P035,tuntutanBulan,96,putusan_567_pid.sus_2019_pn_sda_20261113171714.pdf,2,Alifandro,Alifandro,verified
+P035,vonisBulan,72,putusan_567_pid.sus_2019_pn_sda_20261113171714.pdf,11,Alifandro,Alifandro,verified
+P035,dendaRupiah,1000000000,putusan_567_pid.sus_2019_pn_sda_20261113171714.pdf,11,Alifandro,Alifandro,verified
+P036,nomorPerkara,570/Pid.Sus/2019/PN SDA,putusan_570_pid.sus_2019_pn_sda_20261113170811.pdf,1,Alifandro,Alifandro,verified
+P036,beratBarangBuktiGram,0.155,putusan_570_pid.sus_2019_pn_sda_20261113170811.pdf,"4, 5, 11",Alifandro,Alifandro,verified
+P036,pasalTerbukti,Pasal 112 ayat (1) UU RI No. 35 Tahun 2009,putusan_570_pid.sus_2019_pn_sda_20261113170811.pdf,"10, 12, 13",Alifandro,Alifandro,verified
+P036,tuntutanBulan,60,putusan_570_pid.sus_2019_pn_sda_20261113170811.pdf,2,Alifandro,Alifandro,verified
+P036,vonisBulan,48,putusan_570_pid.sus_2019_pn_sda_20261113170811.pdf,13,Alifandro,Alifandro,verified
+P036,dendaRupiah,800000000,putusan_570_pid.sus_2019_pn_sda_20261113170811.pdf,13,Alifandro,Alifandro,verified
+P037,nomorPerkara,573/Pid.Sus/2018/PN Sda,putusan_573_pid.sus_2018_pn_sda_20261113170242.pdf,1,Alifandro,Alifandro,verified
+P037,beratBarangBuktiGram,0.044,putusan_573_pid.sus_2018_pn_sda_20261113170242.pdf,"3, 7, 8, 11",Alifandro,Alifandro,verified
+P037,pasalTerbukti,Pasal 112 ayat (1) UU RI No. 35 Tahun 2009,putusan_573_pid.sus_2018_pn_sda_20261113170242.pdf,"12, 13",Alifandro,Alifandro,verified
+P037,tuntutanBulan,84,putusan_573_pid.sus_2018_pn_sda_20261113170242.pdf,2,Alifandro,Alifandro,verified
+P037,vonisBulan,60,putusan_573_pid.sus_2018_pn_sda_20261113170242.pdf,13,Alifandro,Alifandro,verified
+P037,dendaRupiah,800000000,putusan_573_pid.sus_2018_pn_sda_20261113170242.pdf,13,Alifandro,Alifandro,verified
+P038,nomorPerkara,490/Pid.Sus/2018/PN Sda,putusan_490_pid.sus_2018_pn_sda_20261113170536.pdf,1,Alifandro,Alifandro,verified
+P038,beratBarangBuktiGram,0.080,putusan_490_pid.sus_2018_pn_sda_20261113170536.pdf,"4, 6, 8, 10, 12",Alifandro,Alifandro,verified
+P038,pasalTerbukti,Pasal 112 ayat (1) UU RI No. 35 Tahun 2009,putusan_490_pid.sus_2018_pn_sda_20261113170536.pdf,"11, 13, 14",Alifandro,Alifandro,verified
+P038,tuntutanBulan,84,putusan_490_pid.sus_2018_pn_sda_20261113170536.pdf,2,Alifandro,Alifandro,verified
+P038,vonisBulan,72,putusan_490_pid.sus_2018_pn_sda_20261113170536.pdf,14,Alifandro,Alifandro,verified
+P038,dendaRupiah,800000000,putusan_490_pid.sus_2018_pn_sda_20261113170536.pdf,14,Alifandro,Alifandro,verified
+P039,nomorPerkara,450/Pid.Sus/2021/PN SDA,putusan_450_pid.sus_2021_pn_sda_20261112165111.pdf,1,Alifandro,Alifandro,verified
+P039,beratBarangBuktiGram,391.179,putusan_450_pid.sus_2021_pn_sda_20261112165111.pdf,32,Alifandro,Alifandro,verified
+P039,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika dan Pasal 197 UU No. 36 Tahun 2009 tentang Kesehatan,putusan_450_pid.sus_2021_pn_sda_20261112165111.pdf,29,Alifandro,Alifandro,verified
+P039,tuntutanBulan,192,putusan_450_pid.sus_2021_pn_sda_20261112165111.pdf,2,Alifandro,Alifandro,verified
+P039,vonisBulan,132,putusan_450_pid.sus_2021_pn_sda_20261112165111.pdf,32,Alifandro,Alifandro,verified
+P039,dendaRupiah,1000000,putusan_450_pid.sus_2021_pn_sda_20261112165111.pdf,32,Alifandro,Alifandro,verified
+P040,nomorPerkara,455/Pid.Sus/2020/PN.SDA,putusan_455_pid.sus_2020_pn_sda_20261112075211.pdf,1,Alifandro,Alifandro,verified
+P040,beratBarangBuktiGram,0.762,putusan_455_pid.sus_2020_pn_sda_20261112075211.pdf,21,Alifandro,Alifandro,verified
+P040,pasalTerbukti,Pasal 112 ayat (1) UU RI Nomor 35 Tahun 2009 tentang Narkotika,putusan_455_pid.sus_2020_pn_sda_20261112075211.pdf,22,Alifandro,Alifandro,verified
+P040,tuntutanBulan,108,putusan_455_pid.sus_2020_pn_sda_20261112075211.pdf,2,Alifandro,Alifandro,verified
+P040,vonisBulan,72,putusan_455_pid.sus_2020_pn_sda_20261112075211.pdf,22,Alifandro,Alifandro,verified
+P040,dendaRupiah,1000000000,putusan_455_pid.sus_2020_pn_sda_20261112075211.pdf,22,Alifandro,Alifandro,verified
+P041,nomorPerkara,476/Pid.Sus/2019/PN SDA,putusan_476_pid.sus_2019_pn_sda_20261113170941.pdf,1,Alifandro,Alifandro,verified
+P041,beratBarangBuktiGram,0.043,putusan_476_pid.sus_2019_pn_sda_20261113170941.pdf,14,Alifandro,Alifandro,verified
+P041,pasalTerbukti,Pasal 114 ayat (1) Undang-Undang No. 35 Tahun 2009 tentang Narkotika,putusan_476_pid.sus_2019_pn_sda_20261113170941.pdf,16,Alifandro,Alifandro,verified
+P041,tuntutanBulan,96,putusan_476_pid.sus_2019_pn_sda_20261113170941.pdf,2,Alifandro,Alifandro,verified
+P041,vonisBulan,72,putusan_476_pid.sus_2019_pn_sda_20261113170941.pdf,17,Alifandro,Alifandro,verified
+P041,dendaRupiah,1000000000,putusan_476_pid.sus_2019_pn_sda_20261113170941.pdf,17,Alifandro,Alifandro,verified
+P042,nomorPerkara,485/Pid.Sus/2024/PN Sda,putusan_485_pid.sus_2024_pn_sda_20261113170723.pdf,1,Alifandro,Alifandro,verified
+P042,beratBarangBuktiGram,0.200,putusan_485_pid.sus_2024_pn_sda_20261113170723.pdf,22,Alifandro,Alifandro,verified
+P042,pasalTerbukti,Pasal 112 ayat (1) Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika,putusan_485_pid.sus_2024_pn_sda_20261113170723.pdf,24,Alifandro,Alifandro,verified
+P042,tuntutanBulan,102,putusan_485_pid.sus_2024_pn_sda_20261113170723.pdf,2,Alifandro,Alifandro,verified
+P042,vonisBulan,90,putusan_485_pid.sus_2024_pn_sda_20261113170723.pdf,25,Alifandro,Alifandro,verified
+P042,dendaRupiah,1000000000,putusan_485_pid.sus_2024_pn_sda_20261113170723.pdf,25,Alifandro,Alifandro,verified
+P043,nomorPerkara,486/Pid.Sus/2024/PN Sda,putusan_486_pid.sus_2024_pn_sda_20261113170558.pdf,1,Alifandro,Alifandro,verified
+P043,beratBarangBuktiGram,0.527,putusan_486_pid.sus_2024_pn_sda_20261113170558.pdf,22,Alifandro,Alifandro,verified
+P043,pasalTerbukti,Pasal 114 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009 tentang Narkotika,putusan_486_pid.sus_2024_pn_sda_20261113170558.pdf,22,Alifandro,Alifandro,verified
+P043,tuntutanBulan,84,putusan_486_pid.sus_2024_pn_sda_20261113170558.pdf,2,Alifandro,Alifandro,verified
+P043,vonisBulan,78,putusan_486_pid.sus_2024_pn_sda_20261113170558.pdf,22,Alifandro,Alifandro,verified
+P043,dendaRupiah,1000000000,putusan_486_pid.sus_2024_pn_sda_20261113170558.pdf,22,Alifandro,Alifandro,verified
+P044,nomorPerkara,412/PID.Sus/2018/PN.Sda.,putusan_412_pid.sus_2018_pn_sda_20261113170508.pdf,1,Alifandro,Alifandro,verified
+P044,beratBarangBuktiGram,0.052,putusan_412_pid.sus_2018_pn_sda_20261113170508.pdf,5,Alifandro,Alifandro,verified
+P044,pasalTerbukti,Pasal 112 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_412_pid.sus_2018_pn_sda_20261113170508.pdf,16,Alifandro,Alifandro,verified
+P044,tuntutanBulan,84,putusan_412_pid.sus_2018_pn_sda_20261113170508.pdf,2,Alifandro,Alifandro,verified
+P044,vonisBulan,72,putusan_412_pid.sus_2018_pn_sda_20261113170508.pdf,16,Alifandro,Alifandro,verified
+P044,dendaRupiah,800000000,putusan_412_pid.sus_2018_pn_sda_20261113170508.pdf,16,Alifandro,Alifandro,verified
+P045,nomorPerkara,447/Pid.Sus/2018/PN SDA,putusan_447_pid.sus_2018_pn_sda_20261113170617.pdf,1,Alifandro,Alifandro,verified
+P045,beratBarangBuktiGram,7.271,putusan_447_pid.sus_2018_pn_sda_20261113170617.pdf,5,Alifandro,Alifandro,verified
+P045,pasalTerbukti,Pasal 112 ayat (2) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_447_pid.sus_2018_pn_sda_20261113170617.pdf,13,Alifandro,Alifandro,verified
+P045,tuntutanBulan,96,putusan_447_pid.sus_2018_pn_sda_20261113170617.pdf,2,Alifandro,Alifandro,verified
+P045,vonisBulan,72,putusan_447_pid.sus_2018_pn_sda_20261113170617.pdf,13,Alifandro,Alifandro,verified
+P045,dendaRupiah,800000000,putusan_447_pid.sus_2018_pn_sda_20261113170617.pdf,13,Alifandro,Alifandro,verified
+P046,nomorPerkara,448/Pid.Sus/2023/PN Sda,putusan_448_pid.sus_2023_pn_sda_20261112091834.pdf,1,Alifandro,Alifandro,verified
+P046,beratBarangBuktiGram,0.062,putusan_448_pid.sus_2023_pn_sda_20261112091834.pdf,4,Alifandro,Alifandro,verified
+P046,pasalTerbukti,Pasal 112 ayat (1) Undang-Undang RI No. 35 Tahun 2009 tentang Narkotika,putusan_448_pid.sus_2023_pn_sda_20261112091834.pdf,20,Alifandro,Alifandro,verified
+P046,tuntutanBulan,72,putusan_448_pid.sus_2023_pn_sda_20261112091834.pdf,2,Alifandro,Alifandro,verified
+P046,vonisBulan,60,putusan_448_pid.sus_2023_pn_sda_20261112091834.pdf,20,Alifandro,Alifandro,verified
+P046,dendaRupiah,800000000,putusan_448_pid.sus_2023_pn_sda_20261112091834.pdf,20,Alifandro,Alifandro,verified
+P047,nomorPerkara,348/Pid.Sus/2018/PN.SDA.,putusan_348_pid.sus_2018_pn_sda_20261113171650.pdf,1,Alifandro,Alifandro,verified
+P047,beratBarangBuktiGram,0.320,putusan_348_pid.sus_2018_pn_sda_20261113171650.pdf,4,Alifandro,Alifandro,verified
+P047,pasalTerbukti,Pasal 112 ayat (1) UU RI Nomor 35 Tahun 2009 tentang Narkotika,putusan_348_pid.sus_2018_pn_sda_20261113171650.pdf,15,Alifandro,Alifandro,verified
+P047,tuntutanBulan,72,putusan_348_pid.sus_2018_pn_sda_20261113171650.pdf,2,Alifandro,Alifandro,verified
+P047,vonisBulan,54,putusan_348_pid.sus_2018_pn_sda_20261113171650.pdf,15,Alifandro,Alifandro,verified
+P047,dendaRupiah,800000000,putusan_348_pid.sus_2018_pn_sda_20261113171650.pdf,15,Alifandro,Alifandro,verified
+P048,nomorPerkara,375/Pid.Sus/2018/PN SDA,putusan_375_pid.sus_2018_pn_sda_20261113171602.pdf,1,Alifandro,Alifandro,verified
+P048,beratBarangBuktiGram,0.66,putusan_375_pid.sus_2018_pn_sda_20261113171602.pdf,18,Alifandro,Alifandro,verified
+P048,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_375_pid.sus_2018_pn_sda_20261113171602.pdf,18,Alifandro,Alifandro,verified
+P048,tuntutanBulan,84,putusan_375_pid.sus_2018_pn_sda_20261113171602.pdf,2,Alifandro,Alifandro,verified
+P048,vonisBulan,60,putusan_375_pid.sus_2018_pn_sda_20261113171602.pdf,18,Alifandro,Alifandro,verified
+P048,dendaRupiah,1000000000,putusan_375_pid.sus_2018_pn_sda_20261113171602.pdf,18,Alifandro,Alifandro,verified
+P049,nomorPerkara,339/Pid.Sus/2026/PN.Sda.,putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,1,Alifandro,Alifandro,verified
+P049,beratBarangBuktiGram,517.28,putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,4-6,Alifandro,Alifandro,verified
+P049,pasalTerbukti,"Pasal 114 ayat (2) Jo. Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 Tentang Narkotika Jo. UU RI Nomor 1 Tahun 2026 Tentang Penyesuaian Pidana dan Pasal 111 ayat (1) Jo. Pasal 132 ayat (1) UU RI Nomor 35 Tahun 2009 Tentang Narkotika Jo. UU RI Nomor 1 Tahun 2026 Tentang Penyesuaian Pidana",putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,87,Alifandro,Alifandro,verified
+P049,tuntutanBulan,132,putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,3,Alifandro,Alifandro,verified
+P049,vonisBulan,108,putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,87,Alifandro,Alifandro,verified
+P049,dendaRupiah,1000000000,putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,87,Alifandro,Alifandro,verified
+P050,nomorPerkara,1035/Pid.Sus/2018/PN SDA,putusan_1035_pid.sus_2018_pn_sda_20261113170338_2.pdf,1,Alifandro,Alifandro,verified
+P050,beratBarangBuktiGram,0.39,putusan_1035_pid.sus_2018_pn_sda_20261113170338_2.pdf,12,Alifandro,Alifandro,verified
+P050,pasalTerbukti,Pasal 127 ayat (1) huruf a Undang-undang Nomor 35 Tahun 2009,putusan_1035_pid.sus_2018_pn_sda_20261113170338_2.pdf,12,Alifandro,Alifandro,verified
+P050,tuntutanBulan,15,putusan_1035_pid.sus_2018_pn_sda_20261113170338_2.pdf,2,Alifandro,Alifandro,verified
+P050,vonisBulan,12,putusan_1035_pid.sus_2018_pn_sda_20261113170338_2.pdf,12,Alifandro,Alifandro,verified
+P050,dendaRupiah,0,putusan_1035_pid.sus_2018_pn_sda_20261113170338_2.pdf,12,Alifandro,Alifandro,verified
