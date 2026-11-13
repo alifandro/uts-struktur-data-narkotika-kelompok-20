@@ -1,5 +1,0 @@
-case_id,field_name,value,source_file,source_page,extractor,reviewer,status
-P001,vonisBulan,60,putusan_001.pdf,20,Ayu,Bima,verified
-P001,beratBarangBuktiGram,49.39,putusan_001.pdf,3,Citra,Ayu,verified
-P001,pasalTerbukti,Pasal 112,putusan_001.pdf,15,Ayu,Bima,verified
-P002,vonisBulan,48,putusan_002.pdf,18,Budi,Ayu,verified
