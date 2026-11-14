@@ -14,7 +14,7 @@ public class Main {
         boolean berjalan = true;
         while (berjalan) {
             System.out.println("\n==========================================");
-            System.out.println("  APLIKASI DATA PUTUSAN NARKOTIKA (UTS)");
+            System.out.println("  PROGRAM DATA PUTUSAN NARKOTIKA (UTS)");
             System.out.println("  Total Record: " + service.getDaftarPutusan().size()
                     + " | Invariant: " + (service.getDaftarPutusan().validateInvariant() ? "VALID" : "RUSAK"));
             System.out.println("==========================================");
