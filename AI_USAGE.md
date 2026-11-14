@@ -63,7 +63,7 @@ Dokumen ini merupakan catatan audit penggunaan alat bantu AI generatif dalam pen
 *(Salin dan isi blok di bawah ini setiap kali menggunakan AI untuk membantu merangkum teks PDF putusan)*
 
 ### Sesi 5 — Ekstraksi Teks PDF Putusan (`P001` – `P050`)
-* **Tanggal:** `[Isi Tanggal Pengerjaan]`
+* **Tanggal:** `14 November 2026`
 * **Anggota:** Alifandro
 * **Alat:** Gemini
 * **Tujuan:** Membantu mengidentifikasi atribut hukum dari berkas PDF putusan pengadilan sebelum dilakukan verifikasi manual.
