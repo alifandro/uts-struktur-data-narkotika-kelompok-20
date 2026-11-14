@@ -8,12 +8,12 @@ Program Studi Informatika — Fakultas Teknik, Universitas Muhammadiyah Malang (
 ---
 
 ## Identitas Mahasiswa
-* **Nama:** Alifandro `[Lengkapi Nama Lengkap]`
-* **NIM:** `[Isi NIM]`
-* **Kelas:** `[3/B atau 3/D]`
+* **Nama:** Alifandro Atilla Assyawa
+* **NIM:** 202510370110162
+* **Kelas:** 3B
 * **Status Pengerjaan:** Individu (Mandiri)
-* **Pengadilan Negeri yang Digunakan:** `[Isi Nama Pengadilan Negeri sesuai data putusan]`
-* **Arsip 50 PDF Putusan (Google Drive Public):** `[Tempelkan URL Google Drive di sini]`
+* **Pengadilan Negeri yang Digunakan:** Mojokerto
+* **Arsip 50 PDF Putusan (Google Drive Public):** https://drive.google.com/drive/folders/1cU8-SEq8GOmB2lekXRZchbEOSEzrtbP1
 
 ---
 
